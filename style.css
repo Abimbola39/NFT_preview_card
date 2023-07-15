@@ -52,13 +52,14 @@ body {
   visibility: visible;
 }
 
-h2 {
+h1 {
   color: rgb(255, 255, 255);
   font-weight: 600;
   cursor: pointer;
+  font-size: x-large;
 }
 
-h2:hover {
+h1:hover {
   color: hsl(178, 100%, 50%);
   transition: color 0.3s;
 }
